@@ -9,7 +9,7 @@ import face_recognition
 import numpy as np
 import skimage
 import scipy
-from keras.engine import  Model
+from keras.models import Model
 from keras.layers import Input
 from keras_vggface.vggface import VGGFace
 from keras_vggface import utils
