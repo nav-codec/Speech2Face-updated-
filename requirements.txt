@@ -1,5 +1,5 @@
-h5py==2.9.0
-pandas==0.25.0
+h5py>=3.0.0
+pandas>=1.0.0
 numpy==1.16.4
 dlib==19.18.0
 scipy==1.1.0
