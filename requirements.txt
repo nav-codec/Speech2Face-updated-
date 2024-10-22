@@ -1,6 +1,6 @@
 h5py>=3.0.0
 pandas>=1.0.0
-numpy==1.16.4
+numpy==1.20.3
 dlib==19.22.99
 scipy==1.1.0
 scikit-image==0.15.0
